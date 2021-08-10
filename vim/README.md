@@ -4,7 +4,7 @@
 
 
 
-
+```vimrc
 """""""""""""""""""""""""""""""""""""""""""""""""""""""
 """""""""""""""""""" Vundle""""""""""""""""""""""""""""
 " Brief help
@@ -14,4 +14,4 @@
 " :PluginClean      - confirms removal of unused plugins; append `!` to auto-approve removal
 "
 " see :h vundle for more details or wiki for FAQ
-
+```
