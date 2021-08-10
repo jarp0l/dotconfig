@@ -1,0 +1,6 @@
+[SynPS/2 Synaptics TouchPad]
+naturalScroll=true
+pointerAcceleration=0.6
+scrollEdge=false
+scrollTwoFinger=true
+tapToClick=true

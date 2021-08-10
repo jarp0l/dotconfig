@@ -1,0 +1,6 @@
+[submodule "awesome/widgets/battery-widget"]
+	path = awesome/widgets/battery-widget
+	url = https://github.com/deficient/battery-widget
+[submodule "vim/bundle/vundle.vim"]
+	path = vim/bundle/vundle.vim
+	url = https://github.com/VundleVim/Vundle.vim
